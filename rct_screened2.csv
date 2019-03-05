@@ -1,5 +1,5 @@
-label,id,centertext1,centertext2,rectoffset,textoffset,idid,screened,total,leghitwidth
-COPD,#97b8e2,No. of studies,screened,190,214,copd,75,330,150
-Heart Failure,#f7a831,No. of studies,screened,30,54,heart,234,550,160
-Obesity,#e73144,No. of studies,screened,-80,-56,obesi,456,600,110
-Type 2 Diabetes,#456ba2,No. of studies,screened,-275,-251,diab,900,947,195
+label          ,id      ,centertext1    ,centertext2 ,rectoffset ,textoffset ,idid  ,screened ,total ,leghitwidth
+COPD           ,#97b8e2 ,No. of studies ,screened    ,190        ,214        ,copd  ,75       ,330   ,150
+Heart Failure  ,#f7a831 ,No. of studies ,screened    ,30         ,54         ,heart ,234      ,550   ,160
+Obesity        ,#e73144 ,No. of studies ,screened    ,-80        ,-56        ,obesi ,456      ,600   ,110
+Type 2 Diabetes,#456ba2 ,No. of studies ,screened    ,-275       ,-251       ,diab  ,900      ,947   ,195
